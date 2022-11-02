@@ -16,7 +16,6 @@ This is purely just porting code over from a different hosting site, in which th
                       
 **Notes - Uses HTML & CSS ONLY; NO JAVASCRIPT**
 
-                           **LINK**
       https://github.com/d2strategies/d2strategies.github.io
 
 
