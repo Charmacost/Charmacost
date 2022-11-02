@@ -15,7 +15,8 @@ I currently am working with **C++** and **HTML/CSS**, so here is the rundown:
 This is purely just porting code over from a different hosting site, in which this will become a GitHub Page.
                       
 **Notes - Uses HTML & CSS ONLY; NO JAVASCRIPT**
-_Link - https://github.com/d2strategies/d2strategies.github.io_
+
+               _Link - https://github.com/d2strategies/d2strategies.github.io_
 
 
    Assignments
