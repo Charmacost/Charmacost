@@ -22,8 +22,8 @@ None Currently :)
 _(Will add some older C++ assignments at some point)_
 
 
-    Conclusion
-------------------
+   Conclusion
+-----------------
 
 The following information will change as time goes on, as I would greatly appreciate feedback on my projects to help further understand coding/programming.
 Thank you.
