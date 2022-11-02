@@ -11,8 +11,8 @@ I currently am working with **C++** and **HTML/CSS**, so here is the rundown:
 -------------------
 
 🎮 d2trategies --> My non-commercial fandom-of-sorts for Destiny 2. Holds images and links for many of the documents I have written about the game.
-                   This is purely just porting code over from a different hosting site, in which this will become a GitHub Page.
-                   **Notes - Uses HTML & CSS ONLY; NO JAVASCRIPT**
+                   			This is purely just porting code over from a different hosting site, in which this will become a GitHub Page.
+                   				**Notes - Uses HTML & CSS ONLY; NO JAVASCRIPT**
 _Link - https://github.com/d2strategies/d2strategies.github.io_
 
 
