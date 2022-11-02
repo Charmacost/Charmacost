@@ -6,7 +6,7 @@ Most reposities made here either assignments or personal projects, which I'll ma
 
 I currently am working with C++ and HTML/CSS, so here is the rundown:
 
-**-------------------**
+
  Personal Projects
 -------------------
 
@@ -14,14 +14,14 @@ I currently am working with C++ and HTML/CSS, so here is the rundown:
                    This is purely just porting code over from a different hosting site, in which this will become a GitHub Page.
 _Link - https://github.com/d2strategies/d2strategies.github.io_
 
-**------------------**
+
    Assignments
 ------------------
 
 None Currently :) 
 _(Will add some older C++ assignments at some point)_
 
-**------------------**
+
     Conclusion
 ------------------
 
