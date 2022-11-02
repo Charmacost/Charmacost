@@ -20,6 +20,7 @@ _Link - https://github.com/d2strategies/d2strategies.github.io_
 ------------------
 
 None Currently :) 
+
 _(Will add some older C++ assignments at some point)_
 
 
