@@ -1,6 +1,11 @@
+[Projects Website](https://charmacost.github.io)
+------------------------------------
+>**Basic website to store all current projects**
+
+
 Welcome to my GitHub page!
 ------------------------------------
-My name is Michael and I am currently a college student studying computer science (SO).
+Hello, I'm Michael, a college student studying computer science (Sophomore).
 
 All repositories here will be personal projects, however, I will link my school GitHub account below.
 
@@ -22,7 +27,7 @@ Current Languages
 🎮 **D2S**
 My non-commercial fandom-of-sorts for Destiny 2. The plan has changed significantly since I attempted this a year ago so here it is:
 
-D2S is a website that will hold basic information regardly weekly acitivites in the game and use the Destiny 2 API to list and update the appropriate material whilst displaying my articles on the best strategies for those activities.
+D2S is a website that will hold basic information regarding weekly activities in the game and use the Destiny 2 API to list and update the appropriate material whilst displaying my articles on the best strategies for those activities.
 
 This project is meant for my friends however a website is a good challenge to spice things up.
 
@@ -45,4 +50,5 @@ This project is meant for my friends however a website is a good challenge to sp
 -----------------
 
 The following information will change as time goes on, as I would greatly appreciate feedback on my projects to help further understand coding/programming.
-Thank you.
+
+**Thank you.**
