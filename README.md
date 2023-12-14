@@ -26,7 +26,7 @@ D2S is a website that will hold basic information regardly weekly acitivites in 
 
 This project is meant for my friends however a website is a good challenge to spice things up.
 
-[ View D2S Repository](https://charmacost.github.io/D2S)
+[ View D2S Repository](https://github.com/charmacost/D2S)
 
 **Note - Currently uses HTML, CSS, & JS**
 
