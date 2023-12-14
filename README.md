@@ -25,6 +25,7 @@ Current Languages
 -------------------
 
 🎮 **D2S**
+
 My non-commercial fandom-of-sorts for Destiny 2. The plan has changed significantly since I attempted this a year ago so here it is:
 
 D2S is a website that will hold basic information regarding weekly activities in the game and use the Destiny 2 API to list and update the appropriate material whilst displaying my articles on the best strategies for those activities.
@@ -33,7 +34,7 @@ This project is meant for my friends however a website is a good challenge to sp
 
 [ View D2S Repository](https://github.com/charmacost/D2S)
 
-**Note - Currently uses HTML, CSS, & JS**
+**Note - Currently uses HTML, CSS, & JS.**
 
 
    Assignments
@@ -41,9 +42,9 @@ This project is meant for my friends however a website is a good challenge to sp
 
 [University Projects](https://github.com/mcharmacost?tab=repositories)
 
-**Note - All repositories will initially be private but will become public when I feel confident in sharing**
+**Note - All repositories will initially be private but will become public when I feel confident in sharing.**
 
-**I am a beginner to all of this so I am open to constructive feedback/criticisms**
+**I am a beginner to all of this so I am open to constructive feedback/criticisms.**
 
 
    Conclusion
