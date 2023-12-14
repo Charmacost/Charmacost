@@ -1,0 +1,43 @@
+/*MULTI*/
+*{
+    text-align: center;
+    color: black;
+    font-family: 'Red Hat Display', sans-serif;
+    margin: 0;
+}
+
+html,body{
+    height:100%;
+}
+
+#flex{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*HEADER*/
+header{
+    height:15%;
+    /* background-color: beige; */
+}
+
+h1,p{
+    padding:15px;
+}
+
+
+/*MAIN*/
+.links{
+    height:74.5%;
+    /* background-color: antiquewhite; */
+}
+
+/*FOOTER*/
+footer{
+    height:10%;
+    /*background-color: aliceblue;*/
+}
+
+/*BOTTOM NOTES: LOOK INTO CLAMP PROPERTIES*/
