@@ -48,19 +48,18 @@ h1,h3,p{
 .linkBlur{
     backdrop-filter: blur(5px);
     padding: 15px;
+    width: clamp(25%,50%,500px);
 }
 
 #D2S{
     border: solid white;
     border-radius: 8px;
-    font-size: 30px; 
+    font-size: 35px; 
     transition: font-size .75s;
-    width:35%;
-    margin: auto;
 }
 
 #D2S:hover{
-    font-size: 40px;
+    font-size: 45px;
 }
 
 
