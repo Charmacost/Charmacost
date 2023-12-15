@@ -25,20 +25,14 @@ header{
     background-color: lightblue;
 }
 
-h1,h3,p{
-    padding:15px;
-}
-
-
 /*MAIN*/
 .links{
-    height:clamp(300px,74.5%,1100px);
+    height:clamp(325px,74.5%,1100px);
     background-image: url("images/2023_Dawning_Press_Kit_Key_Art_16x9.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
     transition: background-image .5s;
-
 }
 
 .links:has(#D2S:hover){
@@ -51,6 +45,7 @@ h1,h3,p{
     padding: 15px;
     width: clamp(25%,50%,500px);
     border-radius: 16px;
+    padding:35px;
 }
 
 #D2S{
@@ -58,6 +53,8 @@ h1,h3,p{
     border-radius: 8px;
     font-size: 35px; 
     transition: font-size .75s;
+    padding: 25px;
+    margin-top:15px;
 }
 
 #D2S:hover{
@@ -78,7 +75,7 @@ footer{
 img{
     width: 30px;
     height: 30px;
-    padding:10px;
+    padding:7.5px;
     transition: width .25s;
     transition: height .25s;
 }
