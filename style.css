@@ -21,7 +21,7 @@ html,body{
 /*HEADER*/
 header{
     height:15%;
-    background-color: aliceblue;
+    background-color: lightblue;
 }
 
 h1,h3,p{
@@ -32,8 +32,7 @@ h1,h3,p{
 /*MAIN*/
 .links{
     height:74.5%;
-    background-color: navy;
-    color:white;
+    /* color: red; */
     background-image: url("images/2023_Dawning_Press_Kit_Key_Art_16x9.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -46,11 +45,18 @@ h1,h3,p{
         background-image: url("images/2023_Warlord_s_Ruin_Dungeon_Press_Kit_Dungeon_COMPRESSED_007.jpg");
 }
 
+.linkBlur{
+    backdrop-filter: blur(5px);
+    padding: 15px;
+}
+
 #D2S{
     border: solid white;
     border-radius: 8px;
     font-size: 30px; 
     transition: font-size .75s;
+    width:35%;
+    margin: auto;
 }
 
 #D2S:hover{
@@ -62,7 +68,7 @@ h1,h3,p{
 /*FOOTER*/
 footer{
     height:10%;
-    background-color: aliceblue;
+    background-color: lightblue;
 }
 
 img{
